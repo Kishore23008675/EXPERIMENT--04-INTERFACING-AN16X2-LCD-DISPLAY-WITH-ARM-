@@ -1,4 +1,4 @@
-```
+![WhatsApp Image 2025-05-26 at 21 06 30_37a1ab89](https://github.com/user-attachments/assets/ce4bd1b3-5658-4b9e-a020-fa179bfffe80)```
 Name : DHANDEESWARAN SELVAKUMAR
 Roll no : 212223110009
 ```
@@ -266,7 +266,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
-![Screenshot 2025-05-25 144603](https://github.com/user-attachments/assets/4712c74a-249d-4d28-bdcb-b52e5e29204c)
+![WhatsApp Image 2025-05-26 at 21 06 30_37a1ab89](https://github.com/user-attachments/assets/c0bf40b1-13e7-4b51-92a7-31da173c6574)
+
+
 
  
  
