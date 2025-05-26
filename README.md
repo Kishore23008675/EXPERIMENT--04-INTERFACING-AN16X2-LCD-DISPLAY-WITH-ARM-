@@ -267,7 +267,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![pmc_04_page-0001](https://github.com/user-attachments/assets/ee434010-0a88-4e94-b99a-bf5fd654727f)
+![Uploading 437145494-ee434010-0a88-4e94-b99a-bf5fd654727f.jpg…]()
+
 
 
 ## Result :
