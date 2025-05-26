@@ -169,7 +169,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
-![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
+![437145494-ee434010-0a88-4e94-b99a-bf5fd654727f](https://github.com/user-attachments/assets/1f452ce0-bce1-4a6c-a426-e86fe24f0ae8)
+
 
 
 ## STM 32 CUBE PROGRAM :
